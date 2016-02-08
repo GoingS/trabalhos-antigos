@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1447869745 source:c:\users\victor\desktop\trabalho 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<string.h>
+	"listas.h"
+	"arvores.h"
+	"menu.h"
+
+1447867209 source:c:\users\victor\desktop\trabalho 5\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+
+1447867635 c:\users\victor\desktop\trabalho 5\listas.h
+
+1447790957 c:\users\victor\desktop\trabalho 5\menu.h
+
+1447791003 source:c:\users\victor\desktop\trabalho 5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1447869390 c:\users\victor\desktop\trabalho 5\arvores.h
+
+1447790775 c:\users\victor\desktop\trabalho 5\listas.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1447869632 source:c:\users\victor\desktop\trabalho 5\arvores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvores.h"
+
+1447870212 source:c:\users\victor\desktop\trabalho 5\atualizararvores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listas.h"
+	"arvores.h"
+	"atualizarArvores.h"
+
+1447870212 c:\users\victor\desktop\trabalho 5\atualizararvores.h
+

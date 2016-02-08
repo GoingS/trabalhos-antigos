@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1447190078 source:c:\users\goings\desktop\trabalho 4\fila.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"fila.h"
+
+1447188111 c:\users\goings\desktop\trabalho 4\fila.h
+
+1447381199 source:c:\users\goings\desktop\trabalho 4\obtencaoprocessos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"obtencaoProcessos.h"
+
+1447095445 c:\users\goings\desktop\trabalho 4\obtencaoprocessos.h
+	"fila.h"
+
+1447190040 source:c:\users\goings\desktop\trabalho 4\pilha.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pilha.h"
+
+1447188258 c:\users\goings\desktop\trabalho 4\pilha.h
+
+1447341742 source:c:\users\goings\desktop\trabalho 4\t4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"pilha.h"
+	"obtencaoProcessos.h"
+	"escalonamento.h"
+
+1447193678 source:c:\users\victor\desktop\trabalho 4\fila.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"fila.h"
+
+1447191711 c:\users\victor\desktop\trabalho 4\fila.h
+
+1447099668 source:c:\users\victor\desktop\trabalho 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"pilha.h"
+	"obtencaoProcessos.h"
+
+1447191858 c:\users\victor\desktop\trabalho 4\pilha.h
+
+1447099045 c:\users\victor\desktop\trabalho 4\obtencaoprocessos.h
+	"fila.h"
+
+1447346104 source:c:\users\victor\desktop\trabalho 4\obtencaoprocessos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"obtencaoProcessos.h"
+
+1447193640 source:c:\users\victor\desktop\trabalho 4\pilha.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"pilha.h"
+
+1447345342 source:c:\users\victor\desktop\trabalho 4\t4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"pilha.h"
+	"obtencaoProcessos.h"
+	"escalonamento.h"
+
+1447268512 source:c:\users\victor\desktop\trabalho 4\escalonamento.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+
+1447267153 c:\users\victor\desktop\trabalho 4\escalonamento.h
+
+1447381723 source:c:\users\goings\desktop\trabalho 4\escalonamento.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+
+1447096068 source:c:\users\goings\desktop\trabalho 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	"pilha.h"
+	"obtencaoProcessos.h"
+
+1447263553 c:\users\goings\desktop\trabalho 4\escalonamento.h
+
